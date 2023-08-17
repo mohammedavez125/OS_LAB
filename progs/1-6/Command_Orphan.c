@@ -1,3 +1,4 @@
+//2nd prog
 #include<stdio.h>
 #include<sys/stat.h>
 #include<time.h>
