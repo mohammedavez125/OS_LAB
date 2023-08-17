@@ -1,3 +1,4 @@
+//5th prog
 #include<pthread.h>
 #include<stdio.h>
 
