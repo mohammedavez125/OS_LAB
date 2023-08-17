@@ -1,3 +1,4 @@
+//3rd prog
 #include<stdio.h>
 #include<dirent.h>
 #include<errno.h>
