@@ -1,3 +1,4 @@
+//6th prog
 #include<stdio.h>
 
 main() {
